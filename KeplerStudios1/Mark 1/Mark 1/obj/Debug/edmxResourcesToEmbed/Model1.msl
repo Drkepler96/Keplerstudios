@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="SınavModelStoreContainer" CdmEntityContainer="SınavEntities">
+    <EntitySetMapping Name="sinav12">
+      <EntityTypeMapping TypeName="SınavModel.sinav12">
+        <MappingFragment StoreEntitySet="sinav12">
+          <ScalarProperty Name="Sira" ColumnName="Sira" />
+          <ScalarProperty Name="Ders" ColumnName="Ders" />
+          <ScalarProperty Name="Derslik" ColumnName="Derslik" />
+          <ScalarProperty Name="Gözetmen" ColumnName="Gözetmen" />
+          <ScalarProperty Name="Tarih" ColumnName="Tarih" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

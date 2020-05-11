@@ -1,0 +1,16 @@
+C:\Users\james\source\repos\Mark 1\Mark 1\bin\Debug\Mark 1.exe.config
+C:\Users\james\source\repos\Mark 1\Mark 1\bin\Debug\Mark 1.exe
+C:\Users\james\source\repos\Mark 1\Mark 1\bin\Debug\Mark 1.pdb
+C:\Users\james\source\repos\Mark 1\Mark 1\obj\Debug\Mark 1.csprojAssemblyReference.cache
+C:\Users\james\source\repos\Mark 1\Mark 1\obj\Debug\Mark_1.Form1.resources
+C:\Users\james\source\repos\Mark 1\Mark 1\obj\Debug\Mark_1.Properties.Resources.resources
+C:\Users\james\source\repos\Mark 1\Mark 1\obj\Debug\Mark 1.csproj.GenerateResource.cache
+C:\Users\james\source\repos\Mark 1\Mark 1\obj\Debug\Mark 1.csproj.CoreCompileInputs.cache
+C:\Users\james\source\repos\Mark 1\Mark 1\obj\Debug\Mark 1.exe
+C:\Users\james\source\repos\Mark 1\Mark 1\obj\Debug\Mark 1.pdb
+C:\Users\james\source\repos\Mark 1\Mark 1\obj\Debug\Mark_1.Form2.resources
+C:\Users\james\source\repos\Mark 1\Mark 1\bin\Debug\EntityFramework.dll
+C:\Users\james\source\repos\Mark 1\Mark 1\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\james\source\repos\Mark 1\Mark 1\bin\Debug\EntityFramework.xml
+C:\Users\james\source\repos\Mark 1\Mark 1\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\james\source\repos\Mark 1\Mark 1\obj\Debug\Mark 1.csproj.CopyComplete
